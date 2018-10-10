@@ -1,0 +1,9 @@
+*.log
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
